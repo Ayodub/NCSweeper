@@ -7,7 +7,7 @@ netcat
 colorama  
 scapy  
   
-Usage:
+Usage:  
 python3 NCSweeper.py [Options] [Target]
   
 Running the script with no options will run an nmap scan on all ports and attempt to connect to any open ports with Netcat, returning all ports that respond, as well as their response.
