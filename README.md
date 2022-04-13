@@ -1,11 +1,11 @@
 # NCSweeper
 A tool to send Netcat requests to open ports and monitor their responses
   
-Requires:
-nmap
-netcat
-colorama
-scapy
+Requires:  
+nmap  
+netcat  
+colorama  
+scapy  
   
 Usage:
 python3 NCSweeper.py [Options] [Target]
